@@ -7,4 +7,4 @@ on:
 
 jobs:
   ci:
-    uses: susf/.github/.github/workflows/python-ci.yml@main
+    uses: SU-Spaceflight/.github/.github/workflows/python-ci.yml@main
