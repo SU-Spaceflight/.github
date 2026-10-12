@@ -1,0 +1,6 @@
+{
+  "name": "SUSF Python CI",
+  "description": "Lint, format check and tests with uv, using the shared SUSF workflow.",
+  "categories": ["Python"],
+  "filePatterns": ["pyproject.toml$"]
+}

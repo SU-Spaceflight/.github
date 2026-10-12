@@ -1,0 +1,10 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [$default-branch]
+
+jobs:
+  ci:
+    uses: susf/.github/.github/workflows/python-ci.yml@main
